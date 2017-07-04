@@ -3,7 +3,7 @@ const firebase = require('firebase/app');
 const database = require('firebase/database');
 
 const app = firebase.initializeApp({
-    apiKey: "AIzaSyA7tHqSVVq9-jZuruTNtN9jqyFVCGqZrmE",
+    apiKey: "",
     authDomain: "sistemacomentarios.firebaseapp.com",
     databaseURL: "https://sistemacomentarios.firebaseio.com",
     projectId: "sistemacomentarios",
