@@ -1,0 +1,23 @@
+{
+  "name": "comentarios",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "firebase": "^4.1.2",
+    "re-base": "^3.0.2",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {
+    "enzyme": "^2.9.0",
+    "react-addons-test-utils": "^15.6.0",
+    "react-scripts": "1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "coverage": "react-scripts test --env=jsdom --coverage",
+    "eject": "react-scripts eject"
+  }
+}
